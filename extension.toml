@@ -1,0 +1,7 @@
+id = "grianlang3zed"
+name = "GrianLang3Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Grian <grianguy32@gmail.com>"]
+description = "A zed extension that provides support for grianlang3"
+repository = "https://github.com/grian32/grianlang3zed"
