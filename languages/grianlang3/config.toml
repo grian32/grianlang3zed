@@ -1,0 +1,4 @@
+name="grianlang3"
+grammar = "grianlang3"
+path_suffixes = ["gl3"]
+line_comments = ["//"]

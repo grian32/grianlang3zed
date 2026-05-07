@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Grian <grianguy32@gmail.com>"]
 description = "A zed extension that provides support for grianlang3"
 repository = "https://github.com/grian32/grianlang3zed"
+
+[grammars.grianlang3]
+repository = "https://github.com/grian32/tree-sitter-grianlang3"
+rev = "30ad6b3b05cfbba4a2cdae051ed999b2c6587f02"
