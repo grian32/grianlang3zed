@@ -8,4 +8,4 @@ repository = "https://github.com/grian32/grianlang3zed"
 
 [grammars.grianlang3]
 repository = "https://github.com/grian32/tree-sitter-grianlang3"
-rev = "30ad6b3b05cfbba4a2cdae051ed999b2c6587f02"
+rev = "a464f01cb5ac71141a22005cc899f2fd4dc897b0"
